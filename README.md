@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a personal project to manage university student budgets
-- 🌱 I’m currently learning .NET 7, minimal API's, Orleans and more
-- 📫 Reach me on [Twitter](https://twitter.com/mrmartinkelly)
+- 🔭 I’m currently working on personal projects
+- 🌱 I’m currently learning .NET 9, minimal API's, Orleans and more
+- 📫
 <!--
 **martinkelly99/martinkelly99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
